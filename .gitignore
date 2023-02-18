@@ -1,0 +1,4 @@
+chatGPT.log
+build/*
+chatGPT.egg-info/*
+.DS_Store
