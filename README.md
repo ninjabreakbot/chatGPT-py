@@ -1,6 +1,10 @@
 # setup
 
- - export your `OPENAI_API_KEY` as a env (`export OPENAI_API_KEY='XXXXXXXXXXX'`)
- - run `pip3 install .` in the root of this repo
- - `chatGPT` will be installed to your `PATH`
+- `gh repo clone ninjabreakbot/chatGPT-py`
+- `export OPENAI_API_KEY=<openai-api-key>`
+- `pip3 install .`
+- `chatGPT -q "Are you going to take my job?"`
 
+## notes
+
+- interactions logged to `~/chatGPT.log`
